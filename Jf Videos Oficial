@@ -1,0 +1,166 @@
+# YouTube.jfvideos
+#EXTM3U
+#EXTINF:-1 tvg-logo =" https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640"", CANAL VIVA HD
+http://50.7.34.90:8090/live/VIVA_HD
+
+
+#EXTINF:-1 tvg-logo =" http://i.imgur.com/NSHvLCe.png"", GLOBO-RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBATV HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-RS HD
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-BA HD
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-MG HD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-RJ HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-GO HD
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-PARA HD
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-DF HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-PÍ HD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/8jtpiq42mrcwetvfi2shqxubyt2zh0bm/chunklist_w2014769594.ts
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-INTERIOR HD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/chunklist_w1459495176.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-GO HD
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-SP
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://soliens.com.br/wp-content/uploads/2019/02/record-news-1-e1549045735650.png"", RECOD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-vq9CkCMbWP0/WRz9xqGvqTI/AAAAAAAA5mY/ocy3WFbS4KYHHdKmphXJ8-txNqi2ovAlwCLcB/s640/bandnews.png"", BANDA NEWS
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1229371975.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png"", GLOBO NEWS
+https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png"", RBTV HD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://i.pinimg.com/originals/38/b6/8a/38b68ac06d3a8c75c32553ef47314fbe.png"", TV MANCHETE HD
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/nicthic/images/b/b0/Retro_Cartoons_Logo_2005-2015.png/revision/latest?cb=20171003231210"", RETRO CARTOON HD🍷
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+
+#EXTINF:-1 tvg-logo =" https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"", DISNEY XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png"", ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png"", ANIME TV 02
+http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-hfjk6bWNs_g/YE09r6ud-jI/AAAAAAAA1No/XvNMi1L-98UWKwxjqqJV0vBALVk-VzdAACLcBGAsYHQ/s466/loading_novo_2021_TV_logo_banner.png"", LOADING TV
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_480.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png"",DISNEY 🙋JR HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png"",KURIAKOS KIDS HD
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png"",REDE BRASIL HD
+http://177.11.96.110:9080/hls/sictv.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://pbs.twimg.com/media/EoXbcb4XMAABInG.png"", LOADING TV HD
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_480.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png"", CULTURA-PR HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png"",TVCAPITAL-PI HD
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png"",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png"",ESPN 02
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/segment4454746_360_av-b.ts
+
+
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401"",ESPN EXTRA
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://lh3.googleusercontent.com/proxy/JXRfYOacse8x958L0DYGTAGAmMNLOJI9RcRJ7sMJuJRKfWoOYkXfpSpRHbnFaOygMRGJzaUcyXKrCSq1a8wrIhFR8ObUYZ58xOnFcxyBfjeYzdVDyVlLd0L9Y8FTcUBs1a5yM71wRlctLRsEpWl2pwfmgyN3jmEX2Bdigzxw1X4hxw"",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png"",EI PLUS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png"",ALL SPORTS
+http://ott-cdn.ucom.am/s86/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png"",RED BBBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://img.vidks.net/s/v1x/l/cine-trianon-tv.webp"",CINE TRIANO
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
+
+
+
