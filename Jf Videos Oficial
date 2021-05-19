@@ -1,4 +1,9 @@
 # YouTube.jfvideos
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"",CINEMAX
+http://50.7.34.90:8090/live/CINEMAX_HD
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo=" http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/w1200-h630-p-k-no-nu/telecine_pipoca.png""", TELECINE PIPOCA
 http://104.128.74.178:2086/streams/208_.m3u8
