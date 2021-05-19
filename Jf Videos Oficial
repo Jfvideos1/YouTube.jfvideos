@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSRB4lh6CM866rxsmTr_XlFSYbJsQ2eqYeA&usqp=CAU"",CINE SKY
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2014/09/sky-logo-tv-3.png"", CINE SKY
 http://pndxt01.dyndns.org:8080/live/24h24h/pRtyfltzOP/31808.m3u8
 
 
