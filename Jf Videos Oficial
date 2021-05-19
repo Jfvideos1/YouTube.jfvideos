@@ -1,5 +1,13 @@
 # YouTube.jfvideos
 #EXTM3U
+#EXTINF:-1 tvg-logo =" http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/w1200-h630-p-k-no-nu/telecine_pipoca.png""", TELECINE PIPOCA
+http://104.128.74.178:2086/streams/208_.m3u8
+
+
+#EXTINF:-1 tvg-logo =" https://upload.wikimedia.org/wikipedia/commons/2/25/Rede_Telecine.png"",TELECINE PREMIUM
+http://104.128.74.178:2086/streams/210_.m3u8
+
+
 #EXTINF:-1 tvg-logo =" https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640"", CANAL VIVA HD
 http://50.7.34.90:8090/live/VIVA_HD
 
