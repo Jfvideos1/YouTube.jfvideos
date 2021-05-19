@@ -1,18 +1,18 @@
 # YouTube.jfvideos
 #EXTM3U
-#EXTINF:-1 tvg-logo =" http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/w1200-h630-p-k-no-nu/telecine_pipoca.png""", TELECINE PIPOCA
+#EXTINF:-1 tvg-logo=" http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/w1200-h630-p-k-no-nu/telecine_pipoca.png""", TELECINE PIPOCA
 http://104.128.74.178:2086/streams/208_.m3u8
 
 
-#EXTINF:-1 tvg-logo =" http://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png"",TELECINE PREMIUM
+#EXTINF:-1 tvg-logo=" http://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png"",TELECINE PREMIUM
 http://104.128.74.178:2086/streams/210_.m3u8
 
 
-#EXTINF:-1 tvg-logo =" https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e8/Canal_Viva_logo.png/revision/latest/scale-to-width-down/250?cb=20190227170824"", CANAL VIVA HD
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_Viva_logo_2014.png/revision/latest/scale-to-width-down/200?cb=20140519221457"", CANAL VIVA HD
 http://50.7.34.90:8090/live/VIVA_HD
 
 
-#EXTINF:-1 tvg-logo =" http://i.imgur.com/NSHvLCe.png"", GLOBO-RJ HD
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/NSHvLCe.png"", GLOBO-RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 
