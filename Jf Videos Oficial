@@ -164,6 +164,10 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/segment4454746_360_av-b
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png"", FOX SPORTS HD
+http://canais.goldpremium.xyz/live/edgewhtyektywdgsd/edgewhtyektywdgsd/803.ts
+
+
 #EXTINF:-1 tvg-logo=" https://lh3.googleusercontent.com/proxy/JXRfYOacse8x958L0DYGTAGAmMNLOJI9RcRJ7sMJuJRKfWoOYkXfpSpRHbnFaOygMRGJzaUcyXKrCSq1a8wrIhFR8ObUYZ58xOnFcxyBfjeYzdVDyVlLd0L9Y8FTcUBs1a5yM71wRlctLRsEpWl2pwfmgyN3jmEX2Bdigzxw1X4hxw"",ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&rebase=on
 
