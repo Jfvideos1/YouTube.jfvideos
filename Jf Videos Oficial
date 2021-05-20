@@ -156,11 +156,11 @@ https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png"",ESPN 02
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png"", ESPN 02
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/segment4454746_360_av-b.ts
 
 
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401"",ESPN EXTRA
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401"", ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 
