@@ -209,10 +209,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:2659
 #EXTINF:1.669,
 l_69748_5328656_2659.ts?nimblesessionid=3480513
 #EXTINF:3.336,
