@@ -90,12 +90,12 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8jtpiq42mrcwetvfi2shqxubyt2zh0bm/chunklist_w2014769594.ts
 
 
-#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-INTERIOR HD
-https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/chunklist_w1459495176.m3u8
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-GO HD
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo=" https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-SP HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w26552784_b216000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-SP
