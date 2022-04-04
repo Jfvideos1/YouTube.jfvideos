@@ -208,3 +208,321 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 
 
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD (SL)" tvg-logo="" group-title="(no group)",AXN HD (SL)
+http://200.4.96.59:8003/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD (SL)" tvg-logo="" group-title="(no group)",ARTE 1 HD (SL)
+http://200.4.96.59:8003/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="Bandeirantes.br" tvg-name="BAND HD (SL)" tvg-logo="" group-title="(no group)",BAND HD (SL)
+http://200.4.96.59:8003/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN BRASIL HD (SL)" tvg-logo="" group-title="(no group)",CNN BRASIL HD (SL)
+http://200.4.96.59:8003/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD (SL)" tvg-logo="" group-title="(no group)",SONY HD (SL)
+http://200.4.96.59:8003/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="CANAL DO BOI HD (SL)" tvg-logo="" group-title="(no group)",CANAL DO BOI HD (SL)
+http://200.4.96.59:8003/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD (SL)" tvg-logo="" group-title="(no group)",CARTOON NETWORK HD (SL)
+http://200.4.96.59:8003/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD (SL)" tvg-logo="" group-title="(no group)",COMEDY CENTRAL HD (SL)
+http://200.4.96.59:8003/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="Discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY CHANNEL HD (SL)
+http://200.4.96.59:8003/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY KIDS HD (SL)
+http://200.4.96.59:8003/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="Discoverytheater.br" tvg-name="DISCOVERY THEATER HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY THEATER HD (SL)
+http://200.4.96.59:8003/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY WORLD HD (SL)
+http://200.4.96.59:8003/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HD (SL)" tvg-logo="" group-title="(no group)",E! HD (SL)
+http://200.4.96.59:8003/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="" tvg-logo="" group-title="(no group)",⚽️ ESPN 1 HD (SL)
+http://200.4.96.59:8003/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="(no group)",⚽️ ESPN HD (SL)
+http://200.4.96.59:8003/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="" tvg-logo="" group-title="(no group)",⚽️ FOX SPORTS 2 HD (SL)
+http://200.4.96.59:8003/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="" tvg-logo="" group-title="(no group)",⚽️ ESPN 4 HD (SL)
+http://200.4.96.59:8003/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="FOOD NETWORK HD (SL)" tvg-logo="" group-title="(no group)",FOOD NETWORK HD (SL)
+http://200.4.96.59:8003/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD (SL)" tvg-logo="" group-title="(no group)",GNT HD (SL)
+http://200.4.96.59:8003/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD (SL)" tvg-logo="" group-title="(no group)",GLOBO NEWS HD (SL)
+http://200.4.96.59:8003/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD (SL)" tvg-logo="" group-title="(no group)",HBO FAMILY HD (SL)
+http://200.4.96.59:8003/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD (SL)" tvg-logo="" group-title="(no group)",HBO HD (SL)
+http://200.4.96.59:8003/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD (SL)" tvg-logo="" group-title="(no group)",HBO POP HD (SL)
+http://200.4.96.59:8003/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD (SL)" tvg-logo="" group-title="(no group)",HBO SIGNATURE HD (SL)
+http://200.4.96.59:8003/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD (SL)" tvg-logo="" group-title="(no group)",HBO PLUS HD (SL)
+http://200.4.96.59:8003/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD (SL)" tvg-logo="" group-title="(no group)",HBO 2 HD (SL)
+http://200.4.96.59:8003/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL (SL)" tvg-logo="" group-title="(no group)",HISTORY CHANNEL (SL)
+http://200.4.96.59:8003/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD (SL)" tvg-logo="" group-title="(no group)",ID HD (SL)
+http://200.4.96.59:8003/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD (SL)" tvg-logo="" group-title="(no group)",LIFETIME HD (SL)
+http://200.4.96.59:8003/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD (SL)" tvg-logo="" group-title="(no group)",MTV HD (SL)
+http://200.4.96.59:8003/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV's 00 (SL)" tvg-logo="" group-title="(no group)",MTV's 00 (SL)
+http://200.4.96.59:8003/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD (SL)" tvg-logo="" group-title="(no group)",MULTISHOW HD (SL)
+http://200.4.96.59:8003/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS Kids HD (SL)" tvg-logo="" group-title="(no group)",NATGEO KIDS Kids HD (SL)
+http://200.4.96.59:8003/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD (SL)" tvg-logo="" group-title="(no group)",NICK JR. HD (SL)
+http://200.4.96.59:8003/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD (SL)" tvg-logo="" group-title="(no group)",PARAMOUNT HD (SL)
+http://200.4.96.59:8003/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE3.br" tvg-name="⚽️ PREMIERE 3 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 3 HD (SL)
+http://200.4.96.59:8003/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE4.br" tvg-name="⚽️ PREMIERE 4 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 4 HD (SL)
+http://200.4.96.59:8003/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD (SL)" tvg-logo="" group-title="(no group)",RECORD HD (SL)
+http://200.4.96.59:8003/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD (SL)" tvg-logo="" group-title="(no group)",REDETV! HD (SL)
+http://200.4.96.59:8003/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD (SL)" tvg-logo="" group-title="(no group)",SBT HD (SL)
+http://200.4.96.59:8003/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD (SL)" tvg-logo="" group-title="(no group)",SYFY HD (SL)
+http://200.4.96.59:8003/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD (SL)" tvg-logo="" group-title="(no group)",SPACE HD (SL)
+http://200.4.96.59:8003/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="⚽️ SPORTV 1 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ SPORTV 1 HD (SL)
+http://200.4.96.59:8003/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="⚽️ SPORTV 2 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ SPORTV 2 HD (SL)
+http://200.4.96.59:8003/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ PREMIERE HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE HD (SL)
+http://200.4.96.59:8003/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD (SL)" tvg-logo="" group-title="(no group)",STUDIO UNIVERSAL HD (SL)
+http://200.4.96.59:8003/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS (SL)" tvg-logo="" group-title="(no group)",TBS (SL)
+http://200.4.96.59:8003/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD (SL)" tvg-logo="" group-title="(no group)",TLC HD (SL)
+http://200.4.96.59:8003/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD (SL)" tvg-logo="" group-title="(no group)",TNT HD (SL)
+http://200.4.96.59:8003/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD (SL)" tvg-logo="" group-title="(no group)",TNT SÉRIES HD (SL)
+http://200.4.96.59:8003/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA (SL)" tvg-logo="" group-title="(no group)",TV APARECIDA (SL)
+http://200.4.96.59:8003/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD (SL)" tvg-logo="" group-title="(no group)",TELECINE PIPOCA HD (SL)
+http://200.4.96.59:8003/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD (SL)" tvg-logo="" group-title="(no group)",TELECINE PREMIUM HD (SL)
+http://200.4.96.59:8003/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD (SL)" tvg-logo="" group-title="(no group)",TELECINE TOUCH HD (SL)
+http://200.4.96.59:8003/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="VH1.BR" tvg-name="MTV LIVE HD (SL)" tvg-logo="" group-title="(no group)",MTV LIVE HD (SL)
+http://200.4.96.59:8003/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD (SL)" tvg-logo="" group-title="(no group)",WARNER CHANNEL HD (SL)
+http://200.4.96.59:8003/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD (SL)" tvg-logo="" group-title="(no group)",A&E HD (SL)
+http://200.4.96.59:8002/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD (SL)" tvg-logo="" group-title="(no group)",AMC HD (SL)
+http://200.4.96.59:8002/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD (SL)" tvg-logo="" group-title="(no group)",ANIMAL PLANET HD (SL)
+http://200.4.96.59:8002/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD (SL)" tvg-logo="" group-title="(no group)",BIS HD (SL)
+http://200.4.96.59:8002/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD (SL)" tvg-logo="" group-title="(no group)",BAND NEWS HD (SL)
+http://200.4.96.59:8002/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="" tvg-logo="" group-title="(no group)",⚽️ BAND SPORTS HD (SL)
+http://200.4.96.59:8002/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD (SL)" tvg-logo="" group-title="(no group)",CARTOONITO HD (SL)
+http://200.4.96.59:8002/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CONMEBOL TV 3 (SL)" tvg-logo="" group-title="(no group)",⚽️ CONMEBOL TV 3 (SL)
+http://200.4.96.59:8002/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CONMEBOL TV 4 (SL)" tvg-logo="" group-title="(no group)",⚽️ CONMEBOL TV 4 (SL)
+http://200.4.96.59:8002/play/a0eb/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CAMPEONATO CARIOCA 1 (SL)" tvg-logo="" group-title="(no group)",⚽️ CAMPEONATO CARIOCA 1 (SL)
+http://200.4.96.59:8002/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CAMPEONATO CARIOCA 2 (SL)" tvg-logo="" group-title="(no group)",⚽️ CAMPEONATO CARIOCA 2 (SL)
+http://200.4.96.59:8002/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD (SL)" tvg-logo="" group-title="(no group)",CANAL BRASIL HD (SL)
+http://200.4.96.59:8002/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD (SL)" tvg-logo="" group-title="(no group)",CINEMAX HD (SL)
+http://200.4.96.59:8002/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-id="🥊COMBATE.br" tvg-name="🥊COMBATE HD (SL)" tvg-logo="" group-title="(no group)",🥊COMBATE HD (SL)
+http://200.4.96.59:8002/play/a0em/index.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA HD (SL)" tvg-logo="" group-title="(no group)",CULTURA HD (SL)
+http://200.4.96.59:8002/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD (SL)" tvg-logo="" group-title="(no group)",CURTA! HD (SL)
+http://200.4.96.59:8002/play/a0du/index.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY H&H HD (SL)
+http://200.4.96.59:8002/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY SCIENCE HD (SL)
+http://200.4.96.59:8002/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="Discoveryturbo.br" tvg-name="DISCOVERY TURBO HD (SL)" tvg-logo="" group-title="(no group)",DISCOVERY TURBO HD (SL)
+http://200.4.96.59:8002/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD (SL)" tvg-logo="" group-title="(no group)",DISNEY CHANNEL HD (SL)
+http://200.4.96.59:8002/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD (SL)" tvg-logo="" group-title="(no group)",DISNEY JUNIOR HD (SL)
+http://200.4.96.59:8002/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="⚽️ ESPN EXTRA HD (SL)" tvg-logo="" group-title="(no group)",⚽️ ESPN EXTRA HD (SL)
+http://200.4.96.59:8002/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="⚽️ ESPN 3 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ ESPN 3 HD (SL)
+http://200.4.96.59:8002/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD (SL)" tvg-logo="" group-title="(no group)",EUROCHANNEL HD (SL)
+http://200.4.96.59:8002/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="STAR CHANNEL (SL)" tvg-logo="" group-title="(no group)",STAR CHANNEL (SL)
+http://200.4.96.59:8002/play/a0f4/index.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD (SL)" tvg-logo="" group-title="(no group)",STAR LIFE HD (SL)
+http://200.4.96.59:8002/play/a0f6/index.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD (SL)" tvg-logo="" group-title="(no group)",FX HD (SL)
+http://200.4.96.59:8002/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD (SL)" tvg-logo="" group-title="(no group)",FUTURA HD (SL)
+http://200.4.96.59:8002/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA HD (SL)" tvg-logo="" group-title="(no group)",GAZETA HD (SL)
+http://200.4.96.59:8002/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO HD (SL)" tvg-logo="" group-title="(no group)",GLOBO HD (SL)
+http://200.4.96.59:8002/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD (SL)" tvg-logo="" group-title="(no group)",GLOOB HD (SL)
+http://200.4.96.59:8002/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD (SL)" tvg-logo="" group-title="(no group)",GLOOBINHO HD (SL)
+http://200.4.96.59:8002/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO MUNDI HD (SL)" tvg-logo="" group-title="(no group)",HBO MUNDI HD (SL)
+http://200.4.96.59:8002/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD (SL)" tvg-logo="" group-title="(no group)",HBO XTREME HD (SL)
+http://200.4.96.59:8002/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV HD (SL)" tvg-logo="" group-title="(no group)",HGTV HD (SL)
+http://200.4.96.59:8002/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 HD (SL)" tvg-logo="" group-title="(no group)",H2 HD (SL)
+http://200.4.96.59:8002/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JP NEWS HD (SL)" tvg-logo="" group-title="(no group)",JP NEWS HD (SL)
+http://200.4.96.59:8002/play/a0fy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOADING HD (SL)" tvg-logo="" group-title="(no group)",LOADING HD (SL)
+http://200.4.96.59:8002/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BOX BRAZIL HD (SL)" tvg-logo="" group-title="(no group)",MUSIC BOX BRAZIL HD (SL)
+http://200.4.96.59:8002/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD (SL)" tvg-logo="" group-title="(no group)",NATGEO WILD HD (SL)
+http://200.4.96.59:8002/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD (SL)" tvg-logo="" group-title="(no group)",NATGEO HD (SL)
+http://200.4.96.59:8002/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD (SL)" tvg-logo="" group-title="(no group)",NICK HD (SL)
+http://200.4.96.59:8002/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD (SL)" tvg-logo="" group-title="(no group)",OFF HD (SL)
+http://200.4.96.59:8002/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE2.br" tvg-name="⚽️ PREMIERE 2 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 2 HD (SL)
+http://200.4.96.59:8002/play/a0es/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE5.br" tvg-name="⚽️ PREMIERE 5 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 5 HD (SL)
+http://200.4.96.59:8002/play/a0et/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE6.br" tvg-name="⚽️ PREMIERE 6 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 6 HD (SL)
+http://200.4.96.59:8002/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIERE7.br" tvg-name="⚽️ PREMIERE 7 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE 7 HD (SL)
+http://200.4.96.59:8002/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id="⚽️ PREMIEREclubes.br" tvg-name="⚽️ PREMIERE CLUBES HD (SL)" tvg-logo="" group-title="(no group)",⚽️ PREMIERE CLUBES HD (SL)
+http://200.4.96.59:8002/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME BOX BRAZIL HD (SL)" tvg-logo="" group-title="(no group)",PRIME BOX BRAZIL HD (SL)
+http://200.4.96.59:8002/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE GOSPEL HD (SL)" tvg-logo="" group-title="(no group)",REDE GOSPEL HD (SL)
+http://200.4.96.59:8002/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD (SL)" tvg-logo="" group-title="(no group)",REDE VIDA HD (SL)
+http://200.4.96.59:8002/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABOR & ARTE HD (SL)" tvg-logo="" group-title="(no group)",SABOR & ARTE HD (SL)
+http://200.4.96.59:8002/play/a0fx/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABOR & ARTE² HD (SL)" tvg-logo="" group-title="(no group)",SABOR & ARTE² HD (SL)
+http://200.4.96.59:8002/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="S" tvg-name="SMITHSONIAN HD (SL)" tvg-logo="" group-title="(no group)",SMITHSONIAN HD (SL)
+http://200.4.96.59:8002/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="⚽️ SPORTV 3 HD (SL)" tvg-logo="" group-title="(no group)",⚽️ SPORTV 3 HD (SL)
+http://200.4.96.59:8002/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD (SL)" tvg-logo="" group-title="(no group)",TV BRASIL HD (SL)
+http://200.4.96.59:8002/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ-TIM-BUM HD (SL)" tvg-logo="" group-title="(no group)",TV RÁ-TIM-BUM HD (SL)
+http://200.4.96.59:8002/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-id="Universal.br" tvg-name="UNIVERSAL HD (SL)" tvg-logo="" group-title="(no group)",UNIVERSAL HD (SL)
+http://200.4.96.59:8002/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD (SL)" tvg-logo="" group-title="(no group)",VIVA HD (SL)
+http://200.4.96.59:8002/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD (SL)" tvg-logo="" group-title="(no group)",WOOHOO HD (SL)
+http://200.4.96.59:8002/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS HD (SL)" tvg-logo="" group-title="(no group)",AGRO MAIS HD (SL)
+http://200.4.96.59:8004/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="## BBB HD 1 (SL)" tvg-logo="" group-title="(no group)",## BBB HD 1 (SL)
+http://200.4.96.59:8004/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="## BBB HD 2 (SL)" tvg-logo="" group-title="(no group)",## BBB HD 2 (SL)
+http://200.4.96.59:8004/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="## BBB MOSAICO HD (SL)" tvg-logo="" group-title="(no group)",## BBB MOSAICO HD (SL)
+http://200.4.96.59:8004/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV (SL)" tvg-logo="" group-title="(no group)",BABY TV (SL)
+http://200.4.96.59:8004/play/a0es/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.br" tvg-name="BLOOMBERG (SL)" tvg-logo="" group-title="(no group)",BLOOMBERG (SL)
+http://200.4.96.59:8004/play/a0ec/index.m3u8
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNATIONAL (SL)" tvg-logo="" group-title="(no group)",CNN INTERNATIONAL (SL)
+http://200.4.96.59:8004/play/a0eb/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CONMEBOL TV 1 (SL)" tvg-logo="" group-title="(no group)",⚽️ CONMEBOL TV 1 (SL)
+http://200.4.96.59:8004/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ CONMEBOL TV 2 (SL)" tvg-logo="" group-title="(no group)",⚽️ CONMEBOL TV 2 (SL)
+http://200.4.96.59:8004/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL COMUNITÁRIO (SL)" tvg-logo="" group-title="(no group)",CANAL COMUNITÁRIO (SL)
+http://200.4.96.59:8004/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL (SL)" tvg-logo="" group-title="(no group)",CANAL RURAL (SL)
+http://200.4.96.59:8004/play/a0f6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL UNIVERSITÁRIO (SL)" tvg-logo="" group-title="(no group)",CANAL UNIVERSITÁRIO (SL)
+http://200.4.96.59:8004/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW (SL)" tvg-logo="" group-title="(no group)",DW (SL)
+http://200.4.96.59:8004/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL (SL)" tvg-logo="" group-title="(no group)",DISNEY CHANNEL (SL)
+http://200.4.96.59:8004/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD (SL)" tvg-logo="" group-title="(no group)",FASHION TV HD (SL)
+http://200.4.96.59:8004/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD (SL)" tvg-logo="" group-title="(no group)",FILM & ARTS HD (SL)
+http://200.4.96.59:8004/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD (SL)" tvg-logo="" group-title="(no group)",FISH TV HD (SL)
+http://200.4.96.59:8004/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV LIVE HD (SL)" tvg-logo="" group-title="(no group)",MTV LIVE HD (SL)
+http://200.4.96.59:8004/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="+globosathd.br" tvg-name="MAIS NA TELA (SL)" tvg-logo="" group-title="(no group)",MAIS NA TELA (SL)
+http://200.4.96.59:8004/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD (SL)" tvg-logo="" group-title="(no group)",MEGAPIX HD (SL)
+http://200.4.96.59:8004/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK (SL)" tvg-logo="" group-title="(no group)",NHK (SL)
+http://200.4.96.59:8004/play/a0et/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ NORDESTE FC 1 (SL)" tvg-logo="" group-title="(no group)",⚽️ NORDESTE FC 1 (SL)
+http://200.4.96.59:8004/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ NORDESTE FC 1² (SL)" tvg-logo="" group-title="(no group)",⚽️ NORDESTE FC 1² (SL)
+http://200.4.96.59:8004/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ NORDESTE FC 2 (SL)" tvg-logo="" group-title="(no group)",⚽️ NORDESTE FC 2 (SL)
+http://200.4.96.59:8004/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="⚽️ NORDESTE FC 2² (SL)" tvg-logo="" group-title="(no group)",⚽️ NORDESTE FC 2² (SL)
+http://200.4.96.59:8004/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV (SL)" tvg-logo="" group-title="(no group)",POLISHOP TV (SL)
+http://200.4.96.59:8004/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI (SL)" tvg-logo="" group-title="(no group)",RAI (SL)
+http://200.4.96.59:8004/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS (SL)" tvg-logo="" group-title="(no group)",RECORD NEWS (SL)
+http://200.4.96.59:8004/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC INTERNACIONAL (SL)" tvg-logo="" group-title="(no group)",SIC INTERNACIONAL (SL)
+http://200.4.96.59:8004/play/a0f4/index.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[XXX] SEXY HOT (SL)" tvg-logo="" group-title="(no group)",[XXX] SEXY HOT (SL)
+http://200.4.96.59:8004/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="Shoptime.br" tvg-name="SHOPTIME (SL)" tvg-logo="" group-title="(no group)",SHOPTIME (SL)
+http://200.4.96.59:8004/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA (SL)" tvg-logo="" group-title="(no group)",TV ESCOLA (SL)
+http://200.4.96.59:8004/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTIÇA (SL)" tvg-logo="" group-title="(no group)",TV JUSTIÇA (SL)
+http://200.4.96.59:8004/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD (SL)" tvg-logo="" group-title="(no group)",TV NOVO TEMPO HD (SL)
+http://200.4.96.59:8004/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO (SL)" tvg-logo="" group-title="(no group)",TV SENADO (SL)
+http://200.4.96.59:8004/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 (SL)" tvg-logo="" group-title="(no group)",TV5 (SL)
+http://200.4.96.59:8004/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE (SL)" tvg-logo="" group-title="(no group)",TVE (SL)
+http://200.4.96.59:8004/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD (SL)" tvg-logo="" group-title="(no group)",TELECINE ACTION HD (SL)
+http://200.4.96.59:8004/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD (SL)" tvg-logo="" group-title="(no group)",TELECINE CULT HD (SL)
+http://200.4.96.59:8004/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD (SL)" tvg-logo="" group-title="(no group)",TELECINE FUN HD (SL)
+http://200.4.96.59:8004/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRACE BRAZUCA HD (SL)" tvg-logo="" group-title="(no group)",TRACE BRAZUCA HD (SL)
+http://200.4.96.59:8004/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[XXX] VENUS (SL)" tvg-logo="" group-title="(no group)",[XXX] VENUS (SL)
+http://200.4.96.59:8004/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD (SL)" tvg-logo="" group-title="(no group)",ZOOMOO HD (SL)
+http://200.4.96.59:8004/play/a0du/index.m3u8
