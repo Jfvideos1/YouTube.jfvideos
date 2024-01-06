@@ -109,7 +109,7 @@ http://185.150.190.225:16493/
 http://209.222.97.92:16436/
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
 http://64.31.40.14:14884/
 
 
