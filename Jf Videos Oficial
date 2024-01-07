@@ -73,8 +73,8 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w757204456.m3u8
 http://64.31.40.14:14048/
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png"",HBO
-http://208.115.225.174:14136/
+#EXTINF:-1 tvg-logo="https://endorfinacultural.com/wp-content/uploads/2017/03/Captura-de-pantalla-2017-03-23-a-las-12.53.24.png"", Space
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/278
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/2560px-FX_Turkey_logo.svg.png"",FX
@@ -121,12 +121,11 @@ http://46.165.213.46:8080/Xplus-1-PmzYaD4Idm/2QNM6W3FGg/686?token=ShZcWRELFQxDXV
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQzmWZd62p8scWMuDlOJUk-A6vel8cEsg2w&usqp=CAU"", GLOOB
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132212900feb70004beb7c9.png"",  AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/976px-Gloob_logo.svg.png"", GLOOB
 http://top.x8full.com/PLAYPREMIUM/9Zf5EneSrS/3503.m3u8
+
+#EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png"",  AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png"",  DISCOVERY SCIENCI
