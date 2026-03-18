@@ -10,19 +10,19 @@ ________________________________________
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PIPOCA
-http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE FUN
+http://89.187.190.167:14107/
 
 #EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PREMIUM
-http://191.37.250.169:8801/live/TelecinePremiumHD/720p.m3u8
+http://89.187.190.167:14113/
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"",TELECINE ACTION
-http://64.31.40.14:14056/
+http://89.187.190.167:14101/
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fv2t4tFKJANqwXsaaG5EsjbOMS5zeX360nGmDASnuvqi6c-BdoNzTJMsNPS3TEJP6pE"", SONY CHANNEL
-http://199.127.60.83:16063/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fv2t4tFKJANqwXsaaG5EsjbOMS5zeX360nGmDASnuvqi6c-BdoNzTJMsNPS3TEJP6pE"", TELECINE TOUCH
+http://89.187.190.167:14116
 
 
 #EXTINF:-1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
