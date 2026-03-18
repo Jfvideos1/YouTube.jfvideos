@@ -10,27 +10,27 @@ ________________________________________
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE FUN
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE FUN
 http://89.187.190.167:14107/
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE PREMIUM
 http://89.187.190.167:14113/
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"",TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"",TELECINE ACTION
 http://89.187.190.167:14101/
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE TOUCH
 http://89.187.190.167:14116
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
-http://199.127.60.83:16192/
+http://185.152.67.187:14386/
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png"",HISTORY
-http://84.17.44.179:14670/
+http://64.31.56.17:14193/
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lXajyAH_HQ8dtup6RQkh0LgiXZ-15F_iTw&usqp=CAU"", SERTÃO-TV 
