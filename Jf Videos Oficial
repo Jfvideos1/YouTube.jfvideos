@@ -13,15 +13,15 @@ ________________________________________
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE FUN
 http://89.187.190.167:14107/
 
-#EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo ="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
 http://89.187.190.167:14113/
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"",TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"",TELECINE ACTION
 http://89.187.190.167:14101/
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fv2t4tFKJANqwXsaaG5EsjbOMS5zeX360nGmDASnuvqi6c-BdoNzTJMsNPS3TEJP6pE"", TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE TOUCH
 http://89.187.190.167:14116
 
 
