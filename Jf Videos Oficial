@@ -13,7 +13,7 @@ ________________________________________
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE FUN
 http://89.187.190.167:14107/
 
-#EXTINF:-1 tvg-logo ="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
 http://89.187.190.167:14113/
 
 
@@ -25,7 +25,7 @@ http://89.187.190.167:14101/
 http://89.187.190.167:14116
 
 
-#EXTINF:-1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
 http://199.127.60.83:16192/
 
 
@@ -33,7 +33,7 @@ http://199.127.60.83:16192/
 http://84.17.44.179:14670/
 
 
-#EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lXajyAH_HQ8dtup6RQkh0LgiXZ-15F_iTw&usqp=CAU"", SERTÃO-TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lXajyAH_HQ8dtup6RQkh0LgiXZ-15F_iTw&usqp=CAU"", SERTÃO-TV 
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
