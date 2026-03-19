@@ -81,19 +81,19 @@ http://needsorinletsgo.store.global.prod.fastly.net/live/space/play2.m3u8?token=
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token=1774005640_348e0873fae3e4d029d8fa6374ef5d82f7201390
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", PREMIERE CLUBES 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE CLUBES 
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1773964571_075fa0ca074add1d159ce1828183afd4e879c8d2
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", PREMIERE 02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE 02
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774005297_c2362911b1e7763c8b4a6178c2801ac6e55516d4
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", Premiere 03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", Premiere 03
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774005297_0cffea5e00d0b424ef3272dab67aebf9664f318d
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 01
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg"", SPORTV 01
 http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774004981_55860e4291cf07f7bab660b8ccc12cf803962eeb 
 
 
@@ -113,7 +113,7 @@ http://209.222.97.92:16436/
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_viva/play2.m3u8?token=1774005202_5564061f268d3f67764aa7f0779d9eb52c696e7c
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gloobinho_Blocos.png/revision/latest?cb=20250718133205"", GLOOBINHO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Gloobinho_logo.svg"", GLOOBINHO
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloobinho/play2.m3u8?token=1774005436_abe14ae5f7d310b012db305a35ec3805685ca98e
 
 
@@ -121,7 +121,7 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloobinho/play2.m3u8
 http://needsorinletsgo.store.global.prod.fastly.net/live/cartoonnetwork/play2.m3u8?token=1774005436_11270f69243fd119431e072cee9b76bb72f646c3
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/976px-Gloob_logo.svg.png"", GLOOB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXWOra_NZPmU5_UdLnlWZixIDQP6ZExCPVV2VADwCeg&s=10"", GLOOB
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloob/play2.m3u8?token=1774004771_7db9589fae440252816d2cca2f69effb9e4b2424
 
 
