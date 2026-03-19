@@ -14,7 +14,7 @@ ________________________________________
 http://89.187.190.167:14107/
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE PREMIUM
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1773966390_6f2c80a40d660a3fa462f647338d9224b1dbe030
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774004874_d6e7b689957d8032f43e980238b225b6a5a63f9a
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"",TELECINE ACTION
@@ -26,7 +26,7 @@ http://89.187.190.167:14116
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
-http://185.152.67.187:14386/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_animalplanet/play2.m3u8?token=1774004507_b57fff9aefb2a487015f3c8486c18d017f66147a
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png"",HISTORY
@@ -74,7 +74,7 @@ http://74.63.239.82:8080/live/tvonline323523562436/1ZITlkK0V0Zd7tfTWJb76F3EbIfDm
 
 
 #EXTINF:-1 tvg-logo="https://endorfinacultural.com/wp-content/uploads/2017/03/Captura-de-pantalla-2017-03-23-a-las-12.53.24.png"", Space
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/278
+http://needsorinletsgo.store.global.prod.fastly.net/live/space/play2.m3u8?token=1774004981_ab7f6ad5960188af5a579c17dd62bef4de5e9a7f
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/2560px-FX_Turkey_logo.svg.png"",FX
@@ -86,19 +86,19 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", PREMIERE 02
-http://208.115.225.174:14460/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774005297_c2362911b1e7763c8b4a6178c2801ac6e55516d4
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", Premiere 03
-http://185.150.190.225:16468/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774005297_0cffea5e00d0b424ef3272dab67aebf9664f318d
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 01
-http://51.83.238.223:16437/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774004981_55860e4291cf07f7bab660b8ccc12cf803962eeb 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"", ESPN
-http://51.83.238.223:16515/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=1774004981_758d31fe5293f684e56c3800749958a6c99677ee
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"", CNN BRASIL 
@@ -110,23 +110,23 @@ http://209.222.97.92:16436/
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
-http://64.31.40.14:14884/
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_viva/play2.m3u8?token=1774005202_5564061f268d3f67764aa7f0779d9eb52c696e7c
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/0b/20/c30b207a7f70aada6d8fcf576db95fa1.png"", DRAGON BALL SUPER
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/686
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gloobinho_Blocos.png/revision/latest?cb=20250718133205"", GLOOBINHO
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloobinho/play2.m3u8?token=1774005436_abe14ae5f7d310b012db305a35ec3805685ca98e
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8LGestNL7HgWBC4D0skh0LxPhTek_pNzLg&usqp=CAU"", CARTOON NETWORK 
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
+http://needsorinletsgo.store.global.prod.fastly.net/live/cartoonnetwork/play2.m3u8?token=1774005436_11270f69243fd119431e072cee9b76bb72f646c3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/976px-Gloob_logo.svg.png"", GLOOB
-http://hapincy.com.global.prod.fastly.net/live/gloob/play2.m3u8?token=1704840540_8d1d255f817fddc8000c14cb6c054765a65a2fcc
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloob/play2.m3u8?token=1774004771_7db9589fae440252816d2cca2f69effb9e4b2424
 
 
 #EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png"",  AXN
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+http://needsorinletsgo.store.global.prod.fastly.net/live/axn/play2.m3u8?token=1774004874_bfb5eccf00d0a0c15addbce347aed85d326ffcac
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png"",  DISCOVERY SCIENCI
