@@ -11,11 +11,11 @@ ________________________________________
 
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE CULT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112"", TELECINE CULT
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774028459_55fdcb57ce35048db29a838b92761956a995993d
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE PIPOCA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcpDXOpcFcdIYFb6fBSBDQgwf9tw-cl6I6GpuDZPDyA&s=10"", TELECINE PIPOCA 
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774010063_36c591d0e2b7356abcb914efe2e0b07ac9f69e09
 
 
