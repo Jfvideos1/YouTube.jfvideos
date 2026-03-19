@@ -10,28 +10,27 @@ ________________________________________
 
 
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112"", TELECINE CULT
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE CULT
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774028459_55fdcb57ce35048db29a838b92761956a995993d
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcpDXOpcFcdIYFb6fBSBDQgwf9tw-cl6I6GpuDZPDyA&s=10"", TELECINE PIPOCA 
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PIPOCA 
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774010063_36c591d0e2b7356abcb914efe2e0b07ac9f69e09
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE FUN
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE FUN
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcfun/play2.m3u8?token=1774028459_1fc22dbea33b12328d045591ee930216b6425c80
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PREMIUM
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774004874_d6e7b689957d8032f43e980238b225b6a5a63f9a
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE ACTION
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcaction/play2.m3u8?token=1774028459_51860aa926d26d3ac504db7df525c4f1d5c24e0e
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE TOUCH
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tctouch/play2.m3u8?token=1774028459_98e4989387ed74a3e3afa412a9e9faad10ac7ec0
 
 
