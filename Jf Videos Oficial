@@ -38,15 +38,15 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1428px-Globo_logo_%282020-%29.svg.png"", GLOBO-SP
-https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1773964786_3fdeaf608becd8951804c4abf9f83c89aa435d6a
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1796071075.m3u8
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_band/play2.m3u8?token=1773964786_ca99e8f4cf5a2c754daa2d466305053820f6297c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-SP HD
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_record/play2.m3u8?token=1773964786_7662bbfa19b103fd96e89948bb798440e209f84f
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-PÍ HD
@@ -57,8 +57,8 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-GO HD
-https://j5umwxziy3.zoeweb.tv/tvsd2/smil:tvsd2_64eS8OiMSj8l.smil/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQi
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT- SP HD
+http://needsorinletsgo.store.global.prod.fastly.net/live/sbt/play2.m3u8?token=1773964786_6ac83c0a5ff13a0c5c86c6f7da6b052d41f3c400
 
 
 #EXTINF:-1 tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-PIAUI
