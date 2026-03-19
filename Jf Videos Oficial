@@ -101,8 +101,8 @@ http://51.83.238.223:16437/
 http://51.83.238.223:16515/
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png"", COMBATE
-http://185.150.190.225:16493/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"", CNN BRASIL 
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_cnnbrasil/play2.m3u8?token=1773966635_f9a107f5e88783144aaa5678a09f71958e3bc740
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlTvXPYlvNCt7Jl4o8bYTCzbZAYRO8YByDw&usqp=CAU"", GLOBO NEWS
