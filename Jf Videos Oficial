@@ -10,22 +10,29 @@ ________________________________________
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PIPOCA 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE CULT
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774028459_55fdcb57ce35048db29a838b92761956a995993d
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE PIPOCA 
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774010063_36c591d0e2b7356abcb914efe2e0b07ac9f69e09
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE FUN
-http://89.187.190.167:14107/
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE FUN
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcfun/play2.m3u8?token=1774028459_1fc22dbea33b12328d045591ee930216b6425c80
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE PREMIUM
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774004874_d6e7b689957d8032f43e980238b225b6a5a63f9a
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"",TELECINE ACTION
-http://89.187.190.167:14101/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE ACTION
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcaction/play2.m3u8?token=1774028459_51860aa926d26d3ac504db7df525c4f1d5c24e0e
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE TOUCH
-http://89.187.190.167:14116
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU3Es7MYbzYkJF9CcC93b0h1fGVjADbW9cYusoXR4p93A_mGjm32EDcOk&s=10"", TELECINE TOUCH
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tctouch/play2.m3u8?token=1774028459_98e4989387ed74a3e3afa412a9e9faad10ac7ec0
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
