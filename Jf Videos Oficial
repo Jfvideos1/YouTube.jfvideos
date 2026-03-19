@@ -132,11 +132,11 @@ http://needsorinletsgo.store.global.prod.fastly.net/live/axn/play2.m3u8?token=17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png"",  DISCOVERY SCIENCI
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png"",  HBO EXTREME 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO  
 http://needsorinletsgo.store.global.prod.fastly.net/live/hbo/play2.m3u8?token=1774006503_1cd07355490037304bb3545e6e5a7b535cda2ea4
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YX9UcDx3cGIeQsO9LOa4wBTesiPm0LdUuQ&usqp=CAU"",  HBO 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO 2
 http://needsorinletsgo.store.global.prod.fastly.net/live/hbo2/play2.m3u8?token=1774006503_9617691d3042275d9dd325d90a5d3a11eccc127a
 
 
