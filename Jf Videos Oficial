@@ -10,18 +10,21 @@ ________________________________________
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE FUN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PIPOCA 
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774010063_36c591d0e2b7356abcb914efe2e0b07ac9f69e09
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE FUN
 http://89.187.190.167:14107/
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE PREMIUM
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774004874_d6e7b689957d8032f43e980238b225b6a5a63f9a
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"",TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"",TELECINE ACTION
 http://89.187.190.167:14101/
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png"", TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/64ad72_21d4c942cbcc4b468801e9406dd0f77e~mv2.png/v1/fill/w_456,h_468,al_c/telecineicon.png"", TELECINE TOUCH
 http://89.187.190.167:14116
 
 
@@ -103,10 +106,6 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"", CNN BRASIL 
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_cnnbrasil/play2.m3u8?token=1773966635_f9a107f5e88783144aaa5678a09f71958e3bc740
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlTvXPYlvNCt7Jl4o8bYTCzbZAYRO8YByDw&usqp=CAU"", GLOBO NEWS
-http://209.222.97.92:16436/
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
