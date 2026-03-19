@@ -77,8 +77,8 @@ http://74.63.239.82:8080/live/tvonline323523562436/1ZITlkK0V0Zd7tfTWJb76F3EbIfDm
 http://needsorinletsgo.store.global.prod.fastly.net/live/space/play2.m3u8?token=1774004981_ab7f6ad5960188af5a579c17dd62bef4de5e9a7f
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/2560px-FX_Turkey_logo.svg.png"",FX
-http://64.31.40.14:14043/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"",AMC
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token=1774005640_348e0873fae3e4d029d8fa6374ef5d82f7201390
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8WHsqO7snxIJx4crhynuDGhMmIFyMEGaqw&usqp=CAU"", PREMIERE CLUBES 
