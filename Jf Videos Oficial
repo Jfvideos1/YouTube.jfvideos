@@ -47,7 +47,7 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1428px-Globo_logo_%282020-%29.svg.png"", GLOBO-SP
-http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1773964786_3fdeaf608becd8951804c4abf9f83c89aa435d6a
+http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1774100232_44b18b6b18eae6bffc68f88488916795ef48a81b
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
@@ -91,7 +91,7 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE CLUBES 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1773964571_075fa0ca074add1d159ce1828183afd4e879c8d2
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774100094_e3ee5134b4fa69a9f35490c0308a8b42a04df7c1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE 02
