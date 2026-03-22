@@ -102,15 +102,15 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?t
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774294803_911c3882b023adcf8f4592283875961d85cd6908
 
 
-#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 01
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 01
 http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774294803_bff4058921dc05b4273dd7ea53421b43388a2655
 
 
-#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 02
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 02
 http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv2/play2.m3u8?token=1774294803_8ce883087ea97d579255f1e25cf9a54e7ce061ab
 
 
-#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 03
+#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png", SPORTV 03
 http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d
 
 
