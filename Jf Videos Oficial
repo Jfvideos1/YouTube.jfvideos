@@ -11,27 +11,27 @@ ________________________________________
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE CULT
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774028459_55fdcb57ce35048db29a838b92761956a995993d
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774294075_61dea7a99e36beee1f645d8457cc756eb8dbecff
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PIPOCA 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774010063_36c591d0e2b7356abcb914efe2e0b07ac9f69e09
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774294075_86f35bb37d9ebf90725116e43adbab4555e9250c
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE FUN
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcfun/play2.m3u8?token=1774028459_1fc22dbea33b12328d045591ee930216b6425c80
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcfun/play2.m3u8?token=1774294075_2e026372eadc266abb28c525e97a92209ce23ddb
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PREMIUM
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774004874_d6e7b689957d8032f43e980238b225b6a5a63f9a
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774294075_981cdaa830ab906e7bcdc8a1dd1bf86587b92d5c
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE ACTION
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcaction/play2.m3u8?token=1774028459_51860aa926d26d3ac504db7df525c4f1d5c24e0e
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcaction/play2.m3u8?token=1774294075_b4f4ccded3cca97f2f5ba65bc03f48a94ff2e346
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE TOUCH
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tctouch/play2.m3u8?token=1774028459_98e4989387ed74a3e3afa412a9e9faad10ac7ec0
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tctouch/play2.m3u8?token=1774294075_cbf7b33efebe5ada2ebfce8ae130429d53d7c67e
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
@@ -47,15 +47,15 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1428px-Globo_logo_%282020-%29.svg.png"", GLOBO-SP
-http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1774100232_44b18b6b18eae6bffc68f88488916795ef48a81b
+http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1774293587_ec8dc7edec164bd7a7d95025f2dac5e0ec4bad3f
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_band/play2.m3u8?token=1773964786_ca99e8f4cf5a2c754daa2d466305053820f6297c
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_band/play2.m3u8?token=1774293587_0f6074df69ec26d7f71fadb865569c50bebd297a
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-SP HD
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_record/play2.m3u8?token=1773964786_7662bbfa19b103fd96e89948bb798440e209f84f
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_record/play2.m3u8?token=1774293587_a688a76c7d1063764c464518f2b3522d36f3114b
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-PÍ HD
@@ -67,7 +67,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT- SP HD
-http://needsorinletsgo.store.global.prod.fastly.net/live/sbt/play2.m3u8?token=1773964786_6ac83c0a5ff13a0c5c86c6f7da6b052d41f3c400
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_sbt/play2.m3u8?token=1774293587_5b0d8b4339726fc56ff736e6ee202b37ac8b6cc0
 
 
 #EXTINF:-1 tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-PIAUI
@@ -87,7 +87,7 @@ http://needsorinletsgo.store.global.prod.fastly.net/live/space/play2.m3u8?token=
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"",AMC
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token=1774005640_348e0873fae3e4d029d8fa6374ef5d82f7201390
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token=1774294075_69ea1d3ead3072b4075f6e262fdc03f9b7464bcc
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE CLUBES 
@@ -111,7 +111,7 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"", CNN BRASIL 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_cnnbrasil/play2.m3u8?token=1773966635_f9a107f5e88783144aaa5678a09f71958e3bc740
+http://needsorinletsgo.store.global.prod.fastly.net/live3/z_cnnbrasil/play2.m3u8?token=1774293587_038c7ae5c8c5dceb6919ebae18960fd32de95fa9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
@@ -131,18 +131,18 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloob/play2.m3u8?tok
 
 
 #EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png"",  AXN
-http://needsorinletsgo.store.global.prod.fastly.net/live/axn/play2.m3u8?token=1774004874_bfb5eccf00d0a0c15addbce347aed85d326ffcac
+http://needsorinletsgo.store.global.prod.fastly.net/live/axn/play2.m3u8?token=1774294075_0e444a7a2efc4209d1c3d7813b4dca3c862f83dd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png"",  DISCOVERY SCIENCI
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO  
-http://needsorinletsgo.store.global.prod.fastly.net/live/hbo/play2.m3u8?token=1774006503_1cd07355490037304bb3545e6e5a7b535cda2ea4
+http://needsorinletsgo.store.global.prod.fastly.net/live/hbo/play2.m3u8?token=1774294075_b4c49cd768efbbccd05f0cd7ec31c04c46059e30
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO 2
-http://needsorinletsgo.store.global.prod.fastly.net/live/hbo2/play2.m3u8?token=1774006503_9617691d3042275d9dd325d90a5d3a11eccc127a
+http://needsorinletsgo.store.global.prod.fastly.net/live/hbo2/play2.m3u8?token=1774294075_aca8d2783947dd0db27e59a2f62808d5a932a3cd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnkFdmA_N9MOPvcv-V5Fcfpc7yl7vt_S-Nd77Hc6u_A&s=10"",  DISCOVERY WORLD
