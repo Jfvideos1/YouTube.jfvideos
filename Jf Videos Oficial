@@ -91,19 +91,27 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE CLUBES 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774100094_e3ee5134b4fa69a9f35490c0308a8b42a04df7c1
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774294803_996e06c6ed9e8bbfa75563b737ef65a7d097fef8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE 02
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774005297_c2362911b1e7763c8b4a6178c2801ac6e55516d4
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774294803_78c14710a34504cad370f769e823903ab3a4892c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", Premiere 03
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774005297_0cffea5e00d0b424ef3272dab67aebf9664f318d
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774294803_911c3882b023adcf8f4592283875961d85cd6908
 
 
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg"", SPORTV 01
-http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774004981_55860e4291cf07f7bab660b8ccc12cf803962eeb 
+#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 01
+http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774294803_bff4058921dc05b4273dd7ea53421b43388a2655
+
+
+#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 02
+http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv2/play2.m3u8?token=1774294803_8ce883087ea97d579255f1e25cf9a54e7ce061ab
+
+
+#EXTINF:-1 tvg-logo="http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d"", SPORTV 03
+http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"", ESPN
