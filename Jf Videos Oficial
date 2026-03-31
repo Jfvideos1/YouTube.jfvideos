@@ -47,7 +47,7 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1428px-Globo_logo_%282020-%29.svg.png"", GLOBO-SP
-http://needsorinletsgo.store.global.prod.fastly.net/live/globo/play2.m3u8?token=1774293587_ec8dc7edec164bd7a7d95025f2dac5e0ec4bad3f
+https://agropesca.live/live/globosp/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
