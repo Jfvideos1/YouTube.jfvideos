@@ -47,15 +47,15 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w206800964.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1428px-Globo_logo_%282020-%29.svg.png"", GLOBO-SP
-https://agropesca.live/live/globosp/index.m3u8
+https://megaflix.faz-o-eli.online/token/25655ca42c6201d50dc007c0ecd2d99d/globosp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_band/play2.m3u8?token=1774293587_0f6074df69ec26d7f71fadb865569c50bebd297a
+https://megaflix.faz-o-eli.online/token/1504e97a48ed8e1c42fcac4bb8efc076/bandsp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-SP HD
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_record/play2.m3u8?token=1774293587_a688a76c7d1063764c464518f2b3522d36f3114b
+https://megaflix.faz-o-eli.online/token/209cda0a0903ef8ecc8f638a48fa2d28/recordsp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-PÍ HD
@@ -67,7 +67,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT- SP HD
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_sbt/play2.m3u8?token=1774293587_5b0d8b4339726fc56ff736e6ee202b37ac8b6cc0
+https://megaflix.faz-o-eli.online/token/1c2b5d570ecf7aec4c399aa8128f5144/sbtsp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-PIAUI
@@ -79,50 +79,51 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w757204456.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIXCTA443p5t1pcyK4v8th2zx360OARpY3w&usqp=CAU"",MEGAPIX
-http://needsorinletsgo.store.global.prod.fastly.net/live/megapix/play2.m3u8?token=1774997079_aefb5096395e5ff3c3f6f55b4cb460f630f7e59d
+https://megaflix.faz-o-eli.online/token/7cfa82c2b23109538bf80a404ec56eaf/megapix.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRhCbJzG-EdKxUxGWNS8fRtQHdMYyBa3yW3iyJiFvzQ&s=10"", SPACE
-http://needsorinletsgo.store.global.prod.fastly.net/live/space/play2.m3u8?token=1774997079_d61aaeffd6a318674ab78feff0c37a968fe70d0a
+https://megaflix.faz-o-eli.online/token/e87c92d687e8b114f193859de3b21a3d/space.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"",AMC
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_amc/play2.m3u8?token=1774997079_c4da5e7d8ba0e99a05ffdf69051ef90b3680377a
+https://megaflix.faz-o-eli.online/token/f4b839f16c59ac9a704afa4773edf48e/amc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE CLUBES 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774294803_996e06c6ed9e8bbfa75563b737ef65a7d097fef8
+https://megaflix.faz-o-eli.online/token/675008193de5e1742d5e7a14e48eb0e2/premiere.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", PREMIERE 02
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774294803_78c14710a34504cad370f769e823903ab3a4892c
+https://megaflix.faz-o-eli.online/token/25266506240d42dc0285b5408bb73d8c/premiere2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png"", Premiere 03
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774294803_911c3882b023adcf8f4592283875961d85cd6908
+https://megaflix.faz-o-eli.online/token/52ce9bdb69c768bf9148ad65c04c3a74/premiere3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 01
-http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1774294803_bff4058921dc05b4273dd7ea53421b43388a2655
+https://megaflix.faz-o-eli.online/token/a7129b8c9dd88f71f2e88cc5a8d1e94a/sportv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"", SPORTV 02
-http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv2/play2.m3u8?token=1774294803_8ce883087ea97d579255f1e25cf9a54e7ce061ab
+https://megaflix.faz-o-eli.online/token/d648877b289c54cb133b33ec5a82bd38/sportv2.m3u8
 
 
 #EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png", SPORTV 03
-http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv3/play2.m3u8?token=1774294803_3f336e917d21bd8c5827c4fafd77c66f8ea4759d
+https://megaflix.faz-o-eli.online/token/87329a61bad3f61952f31da08839a049/sportv3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"", ESPN
-http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=1774004981_758d31fe5293f684e56c3800749958a6c99677ee
+https://megaflix.faz-o-eli.online/token/b5de81bd9a63db57bb14ad3a2954626f/espn.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"", CNN BRASIL 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_cnnbrasil/play2.m3u8?token=1774293587_038c7ae5c8c5dceb6919ebae18960fd32de95fa9
+https://megaflix.faz-o-eli.online/token/837886b3177ab840d3573800daa8aaaa/cnnbrasil.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_viva/play2.m3u8?token=1774005202_5564061f268d3f67764aa7f0779d9eb52c696e7c
+https://megaflix.faz-o-eli.online/token/ee1afde5f41b14b4ff4f9cc44a7f61af/globonovelas.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Gloobinho_logo.svg"", GLOOBINHO
@@ -130,29 +131,29 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloobinho/play2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8LGestNL7HgWBC4D0skh0LxPhTek_pNzLg&usqp=CAU"", CARTOON NETWORK 
-http://needsorinletsgo.store.global.prod.fastly.net/live/cartoonnetwork/play2.m3u8?token=1774005436_11270f69243fd119431e072cee9b76bb72f646c3
+https://megaflix.faz-o-eli.online/token/6c8ac3b1d481ca091ad7f338d0aee5dc/cartoonnetwork.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXWOra_NZPmU5_UdLnlWZixIDQP6ZExCPVV2VADwCeg&s=10"", GLOOB
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_gloob/play2.m3u8?token=1774004771_7db9589fae440252816d2cca2f69effb9e4b2424
+https://megaflix.faz-o-eli.online/token/729a83fc0ec4d9e5ae19b0308dfe3a6a/gloob.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png"",  AXN
-http://needsorinletsgo.store.global.prod.fastly.net/live/axn/play2.m3u8?token=1774997079_43d6fc38591b2ecefc08ae689e4e4937d3f62f46
+https://megaflix.faz-o-eli.online/token/844d56cdb88ab3438adc323bb417d8f5/axn.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png"",  DISCOVERY SCIENCI
-https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+https://megaflix.faz-o-eli.online/token/b688f9fe00bd90d4b33898ecfe8cf8e2/discoveryscience.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO  
-http://needsorinletsgo.store.global.prod.fastly.net/live/hbo/play2.m3u8?token=1774294075_b4c49cd768efbbccd05f0cd7ec31c04c46059e30
+https://megaflix.faz-o-eli.online/token/59c1fd199f72bd2ea9ca70810d7524ad/hbo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoHOJ1-su-8EsDIFlJFznz6gj40a5uDNLlAAtXTNTO6Y4lr48FfzJu78&s=10"",  HBO 2
-http://needsorinletsgo.store.global.prod.fastly.net/live/hbo2/play2.m3u8?token=1774294075_aca8d2783947dd0db27e59a2f62808d5a932a3cd
+https://megaflix.faz-o-eli.online/token/84371921a55270bd83060cd555e1d07e/hbo2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnkFdmA_N9MOPvcv-V5Fcfpc7yl7vt_S-Nd77Hc6u_A&s=10"",  DISCOVERY WORLD
-http://top.x8full.com/PLAYPREMIUM/9Zf5EneSrS/2724.m3u8
-
+https://megaflix.faz-o-eli.online/token/4863aa261514c82e91f4c22330b1463e/discoveryworld.m3u8
 
