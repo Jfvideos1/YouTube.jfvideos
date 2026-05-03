@@ -11,35 +11,35 @@ ________________________________________
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE CULT
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tccult/play2.m3u8?token=1774294075_61dea7a99e36beee1f645d8457cc756eb8dbecff
+https://megaflix.faz-o-eli.online/token/5a82f61a5d6735421dee06881cacc0c6/telecinecult.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PIPOCA 
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpipoca/play2.m3u8?token=1774294075_86f35bb37d9ebf90725116e43adbab4555e9250c
+https://megaflix.faz-o-eli.online/token/db92f775f025354de1473e4119a4230a/telecinepipoca.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE FUN
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcfun/play2.m3u8?token=1774294075_2e026372eadc266abb28c525e97a92209ce23ddb
+https://megaflix.faz-o-eli.online/token/e0c06210ac3c8cc49345d7ca87bdbe7a/telecinefun.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE PREMIUM
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcpremium/play2.m3u8?token=1774997079_2a8b72ae6ef187025396ee0aaf04325a1d7ea783
+https://megaflix.faz-o-eli.online/token/791e5f7fa90fa12e49814e6ff29d42a6/telecinepremium.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE ACTION
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tcaction/play2.m3u8?token=1774294075_b4f4ccded3cca97f2f5ba65bc03f48a94ff2e346
+https://megaflix.faz-o-eli.online/token/45e3039123617566e1ca527cccca34b4/telecineaction.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/396733?w=1920"", TELECINE TOUCH
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_tctouch/play2.m3u8?token=1774294075_cbf7b33efebe5ada2ebfce8ae130429d53d7c67e
+https://megaflix.faz-o-eli.online/token/cf1883ab1ab650dd7530dc3bd43c24c7/telecinetouch.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_animalplanet/play2.m3u8?token=1774004507_b57fff9aefb2a487015f3c8486c18d017f66147a
+https://megaflix.faz-o-eli.online/token/2a78d14ffbc11c1597db4fe96b884e62/animalplanet.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png"",HISTORY
-http://64.31.56.17:14193/
+https://megaflix.faz-o-eli.online/token/f7fcf629b753d964c03e5c69bc467115/history.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lXajyAH_HQ8dtup6RQkh0LgiXZ-15F_iTw&usqp=CAU"", SERTÃO-TV 
